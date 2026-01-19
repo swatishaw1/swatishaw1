@@ -24,7 +24,8 @@ I value:
 
 **Languages**
 - Java
-- JavaScript
+- Python
+- C
 - SQL
 
 **Backend**
@@ -57,6 +58,8 @@ I value:
 
 A full-stack web application built to understand how third-party services integrate into real systems.
 
+**Project Overview:** DropBG is a full-stack web application for background removal using AI-based image processing. It includes a React frontend, Spring Boot backend, and integrations with third-party services for authentication, image processing, and payments. The project focuses on understanding real-world system workflows and backend integration patterns.
+
 **Tech:** React, Spring Boot, REST APIs  
 
 **Features**
@@ -72,6 +75,8 @@ A full-stack web application built to understand how third-party services integr
 🔗 GitHub: https://github.com/swatishaw1/Email-Writer-Ai 
 
 AI-powered application that generates professional emails based on user prompts.
+
+**Project Overview:** Developed a Gmail-integrated Chrome extension that generates AI-based email replies directly within Gmail. Built using React, Spring Boot, and the Gemini API, the system extracts email content, processes it through the backend, and injects generated responses into the compose editor in Gmail.
 
 **Tech:** React, Spring Boot, OpenAI API  
 
