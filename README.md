@@ -26,7 +26,6 @@ I value:
 - Java
 - Python
 - C
-- SQL
 
 **Backend**
 - Spring Boot
