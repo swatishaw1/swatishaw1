@@ -1,5 +1,5 @@
 # Hi — I’m Swati Shaw
-**Full-Stack Developer | Backend-Focused | CS Student**
+**Full-Stack Java Developer | Backend-Focused | CS Student**
 
 I build real-world web applications with clean architecture, strong backend logic, and production-style workflows.  
 My primary interest is backend development — designing APIs, managing data flow, integrating external services, and building systems that behave like real production applications.
