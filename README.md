@@ -10,6 +10,7 @@ I build real-world web applications with Spring Boot and React, focusing on back
 I am currently pursuing a B.Tech in Computer Science at the Institute of Engineering & Management, Kolkata.
 My primary interests include:
 - Backend Development with Frontend
+
 Instead of building thmsutorial-based applications, I focus on projects that simulate real-world workflows such as authentication, payments, external API integrations, and scalable backend services.
 
 ---
