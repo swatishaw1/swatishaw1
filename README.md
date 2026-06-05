@@ -1,6 +1,7 @@
 # Hi, I'm Swati Shaw
 
 Full-Stack Java Developer | Backend-Focused | Computer Science Student
+
 I build real-world web applications with Spring Boot and React, focusing on backend architecture, authentication systems, API design, database modeling, and third-party integrations. My goal is to develop production-grade software while continuously strengthening my problem-solving and system design skills.
 ---
 
