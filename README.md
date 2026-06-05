@@ -1,128 +1,147 @@
-# Hi — I’m Swati Shaw
-**Full-Stack Java Developer | Backend-Focused | CS Student**
+# Hi, I'm Swati Shaw
 
-I build real-world web applications with clean architecture, strong backend logic, and production-style workflows.  
-My primary interest is backend development — designing APIs, managing data flow, integrating external services, and building systems that behave like real production applications.
-
+Full-Stack Java Developer | Backend-Focused | Computer Science Student
+I build real-world web applications with Spring Boot and React, focusing on backend architecture, authentication systems, API design, database modeling, and third-party integrations. My goal is to develop production-grade software while continuously strengthening my problem-solving and system design skills.
 ---
 
 ## About
 
-I started with core Java and gradually moved into full-stack development using **Spring Boot and React**.  
-Instead of building basic demo apps, I focus on projects that simulate **real system behavior** — authentication flows, third-party integrations, background processing, and deployment.
-
-
-I value:
-- readable backend code  
-- clear separation of layers  
-- reliable API design  
-- understanding how real products are built  
+I am currently pursuing a B.Tech in Computer Science at the Institute of Engineering & Management, Kolkata.
+My primary interests include:
+- Backend Development
+- System Design
+- Data Structures & Algorithms
+- Database Systems
+- Software Architecture
+Instead of building tutorial-based applications, I focus on projects that simulate real-world workflows such as authentication, payments, external API integrations, and scalable backend services.
 
 ---
 
-## Tech & Tools
+## Tech Stack
 
-**Languages**
+### Languages
 - Java
 - Python
 - C
 
-**Backend**
+### Backend
 - Spring Boot
+- Spring Security
+- Spring Data JPA
 - REST APIs
-- Hibernate / JPA
+- Hibernate
+- JDBC
 
-**Frontend**
-- React
+### Frontend
+- React.js
+- JavaScript
 - HTML
 - CSS
-- Context API
+- Tailwind CSS
+- Material UI
 
-**Database**
+### Database
 - MySQL
 - PostgreSQL
 
-**Tools & Platforms**
-- Git & GitHub
+### Tools
+- Git
+- GitHub
 - Postman
 - IntelliJ IDEA
 - VS Code
 
 ---
 
-## Featured Projects
+## Projects
 
-### DropBG — Background Removal Platform  
-🔗 GitHub: https://github.com/swatishaw1/DropBG 
+### DropBG — AI Powered Background Removal Platform
 
-A full-stack web application built to understand how third-party services integrate into real systems.
+GitHub: https://github.com/swatishaw1/DropBG
 
-**Project Overview:** DropBG is a full-stack web application for background removal using AI-based image processing. It includes a React frontend, Spring Boot backend, and integrations with third-party services for authentication, image processing, and payments. The project focuses on understanding real-world system workflows and backend integration patterns.
+DropBG is a full-stack application that removes image backgrounds using AI-powered image processing.
 
-**Tech:** React, Spring Boot, REST APIs , ClipDrop API, Clerk , Razorpay APIs
+Key Features:
+- Secure authentication
+- Credit-based usage system
+- Payment integration
+- Image processing workflow
+- Third-party API integrations
 
-**Features**
-- Image background removal using external API  
-- Credit-based usage system  
-- Secure request validation using JWT  
-- Frontend–backend DTO alignment  
-- Production-style API flow  
-
----
-
-### EmailWriterAI — AI Email Generator  
-🔗 GitHub: https://github.com/swatishaw1/Email-Writer-Ai 
-
-AI-powered application that generates professional emails based on user prompts.
-
-**Project Overview:** Developed a Gmail-integrated Chrome extension that generates AI-based email replies directly within Gmail. Built using React, Spring Boot, and the Gemini API, the system extracts email content, processes it through the backend, and injects generated responses into the compose editor in Gmail.
-
-**Tech:** React, Spring Boot, Gemini API , JavaScript , Google Chrome Extension
-
-**Features**
-- Prompt-based email generation  
-- Backend API orchestration  
-- Clean request–response handling  
-- Structured prompt engineering  
-- Error handling and input validation  
+Tech:
+React, Spring Boot, JWT, Clerk, Razorpay, ClipDrop API
 
 ---
 
-## 🎯 Career Goals
+### EmailWriterAI — Gmail AI Assistant
 
-**Short term**
-- Work on real backend systems and APIs  
-- Build reliable and scalable backend services  
-- Gain strong understanding of production system design  
-- Improve frontend architecture using Next.js  
+GitHub: https://github.com/swatishaw1/Email-Writer-Ai
 
-**Long term**
-- Develop deep backend expertise  
-- Design systems that scale  
-- Become a strong full-stack engineer with backend dominance  
+A Gmail-integrated Chrome Extension that generates AI-powered email replies directly inside Gmail.
 
----
+Key Features:
+- Gmail integration
+- AI-generated replies
+- Dynamic DOM detection
+- Tone customization
+- Gemini API integration
 
-## ⚡ How I Work
-
-- I focus on correctness before aesthetics  
-- Backend logic comes first  
-- Small, meaningful commits  
-- Clean controller → service → repository structure  
-- Debug until the root cause is clear  
-- Prefer understanding systems over copying solutions  
+Tech:
+React, Spring Boot, JavaScript, Chrome Extensions, Gemini API
 
 ---
 
-## 📫 Connect
+### Multitenant Authentication System
 
-- **LinkedIn:** https://www.linkedin.com/in/swati-shaw-178207279/ 
-- **GitHub:** https://github.com/swatishaw1
-- **Striver A2Z Sheet** https://takeuforward.org/profile/SwatiShaw1233
-- **LeetCode:** https://leetcode.com/u/Swati_shaw/  
-- **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/swatishaw73
+GitHub: https://github.com/swatishaw1/Multitenant_Auth_System
+
+Authentication platform built to understand enterprise-grade security concepts and multi-tenant architecture.
+
+Key Features:
+- JWT Authentication
+- Role-Based Access Control
+- Spring Security
+- Pagination and Filtering
+- Layered Architecture
+
+Tech:
+Spring Boot, Spring Security, React.js, MySQL
 
 ---
 
-> *“Reflection compounds faster than effort.  
-Hard work grows linearly, but reflection multiplies what your effort produces.”*
+## Coding
+
+- Solved 150+ DSA problems
+- Regular Striver A2Z practitioner
+- Active on LeetCode and GeeksforGeeks
+
+---
+
+## Certifications
+
+- Programming in Java — NPTEL (IIT Kharagpur)
+- Wadhwani Foundation Real Venture Certification
+
+---
+
+## Profiles
+
+LinkedIn:
+https://www.linkedin.com/in/swati-shaw-178207279/
+
+GitHub:
+https://github.com/swatishaw1
+
+LeetCode:
+https://leetcode.com/u/Swati_shaw/
+
+TakeUforward Profile:
+https://takeuforward.org/profile/SwatiShaw1233
+
+GeeksforGeeks:
+https://www.geeksforgeeks.org/profile/swatishaw73
+
+---
+
+"Reflection compounds faster than effort.
+Hard work grows linearly, but reflection multiplies what your effort produces."
